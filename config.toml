@@ -10,7 +10,7 @@ fancyTitle = '&nbsp&nbsp&nbsp Hub AI &nbsp&nbsp&nbsp<br /> &nbsp&nbsp&nbsp <img 
 copyright = "Hub AI"
 description = "Hub AI is a student-run organisation based at Lund University,<br/ > bringing students from all faculties together to educate ourselves<br /> on the current state of AI theory and issues today"
 startbuttonText = "Upcoming Events"
-startbuttonLink = "#"
+startbuttonLink = "/events"
 body_is_markdown = true
 
 [[params.menu.main]]
@@ -18,8 +18,12 @@ url = '/'
 title = "Home"
 
 [[params.menu.main]]
-url = '/posts/'
-title = "Posts"
+url = '/events/'
+title = "Events"
+
+[[params.menu.main]]
+url = '/blogposts/'
+title = "Blogposts"
 
 [taxonomies]
     tag = "tags"
@@ -111,12 +115,12 @@ title = "What we're up to..."
 body = "Read about our upcoming and past events here"
 
 [[params.cta.link]]
-href = "#"
+href = "/events/"
 text = "Events"
 special = true
 
 [[params.cta.link]]
-href = "#"
+href = "/blogposts/"
 text = "Blogposts"
 special = false
 
