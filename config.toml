@@ -124,14 +124,15 @@ special = false
 enable = true
 title = "Contact"
 body = "Leave us a message."
-phone = "+49 (0) 030 000 000"
-address = "1234 Somewhere Road<br />Some Place, Some State 0000<br />Some Country"
-email = "nospam@example.com"
-subject = "New Submission!"
+#phone = "+49 (0) 030 000 000"
+address = "Sandgatan 2, 223 50<br />Lund, Skåne 0000<br />Sweden"
+email = "hello@hubai.se"
+subject = "New message from website"
 plain = false
 
 [params.social]
-twitter = ""
-facebook = ""
-instagram = ""
+twitter = "hubailund"
+facebook = "HubAILund"
+instagram = "hubailund"
 dribble = ""
+footerImage = '<img height="128" width="128" src="/af.png"/>'
