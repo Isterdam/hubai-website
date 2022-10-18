@@ -53,19 +53,19 @@ label = "Dolor"
 enable = true
 
 [[params.two.section]]
-img = "img/pic01.jpg"
-title = 'Magna primis lobortis<br />sed ullamcorper'
-body = 'Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.'
-
-[[params.two.section]]
-img = "img/pic02.jpg"
+img = "network.jpg"
 title = 'Tortor dolore feugiat<br />elementum magna'
-body = 'Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.'
+body = 'Build a network of like-minded individuals from all disciplines and ranks: students, academics and industry representatives.'
 
 [[params.two.section]]
-img = "img/pic03.jpg"
+img = "educate.jpg"
 title = 'Magna primis lobortis<br />sed ullamcorper'
-body = 'Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.'
+body = 'Educate the members on current research and issues surrounding Artificial Intelligence and master basic coding skills together.'
+
+[[params.two.section]]
+img = "share.jpg"
+title = 'Magna primis lobortis<br />sed ullamcorper'
+body = 'Share the members’ personal experience and expertise on AI.'
 
 [params.three]
 enable = true
