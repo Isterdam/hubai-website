@@ -1,9 +1,10 @@
-baseURL = "http://example.org/"
+baseURL = "https://isterdam.github.io/"
 languageCode = "en-us"
 title = "Hub AI"
 defaultContentLanguage = "en"
 paginate = "7"
 theme = "spectral"
+enableEmoji=true
 
 [params]
 fancyTitle = '&nbsp&nbsp&nbsp Hub AI &nbsp&nbsp&nbsp<br /> &nbsp&nbsp&nbsp <img height="128" width="128" src="/white_logo.png"/> &nbsp&nbsp&nbsp'

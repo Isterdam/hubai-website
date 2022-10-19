@@ -4,7 +4,7 @@ subtitle = "Testing"
 +++
 
 ## Python Seminar
-###### **November 29 2022**
+###### :date: **November 29 2022**
 > We hosted a seminar where you had the opportunity to program in Python. Here is how to write a 
 > program which prints "Hello world".
 >
@@ -14,6 +14,6 @@ subtitle = "Testing"
 ---
 
 ## Lecture on Legal Aspects of AI
-###### **December 27 2022**
+###### :date: **December 27 2022**
 > We hosted a seminar where you had the opportunity to learn the legal aspects of AI
 ---
