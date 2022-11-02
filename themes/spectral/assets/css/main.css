@@ -3,62 +3,50 @@
 /* https://google-webfonts-helper.herokuapp.com/fonts/open-sans */
 /* open-sans-regular - latin */
 @font-face {
-  font-family: 'Open Sans';
+  font-family: 'Futura PT';
   font-style: normal;
-  font-weight: 400;
-  src: local('Open Sans Regular'), local('OpenSans-Regular'),
-       url('../fonts/open-sans-v16-latin-regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
-       url('../fonts/open-sans-v16-latin-regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+  font-weight: 300;
+  src: local('FuturaPTMedium');
 }
 
 /* open-sans-italic - latin */
 @font-face {
-  font-family: 'Open Sans';
+  font-family: 'Futura PT';
   font-style: italic;
-  font-weight: 400;
-  src: local('Open Sans Italic'), local('OpenSans-Italic'),
-       url('../fonts/open-sans-v16-latin-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
-       url('../fonts/open-sans-v16-latin-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+  font-weight: 300;
+  src: local('FuturaPTMediumOblique');
 }
 
 /* open-sans-600 - latin */
 @font-face {
-  font-family: 'Open Sans';
+  font-family: 'Futura PT';
   font-style: normal;
   font-weight: 600;
-  src: local('Open Sans SemiBold'), local('OpenSans-SemiBold'),
-       url('../fonts/open-sans-v16-latin-600.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
-       url('../fonts/open-sans-v16-latin-600.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+  src: local('FuturaPTHeavy');
 }
 
 /* open-sans-600italic - latin */
 @font-face {
-  font-family: 'Open Sans';
+  font-family: 'Futura PT';
   font-style: italic;
   font-weight: 600;
-  src: local('Open Sans SemiBold Italic'), local('OpenSans-SemiBoldItalic'),
-       url('../fonts/open-sans-v16-latin-600italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
-       url('../fonts/open-sans-v16-latin-600italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+  src: local('FuturaPTHeavyOblique');
 }
 
 /* open-sans-800 - latin */
 @font-face {
-  font-family: 'Open Sans';
+  font-family: 'Futura PT';
   font-style: normal;
   font-weight: 800;
-  src: local('Open Sans ExtraBold'), local('OpenSans-ExtraBold'),
-       url('../fonts/open-sans-v16-latin-800.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
-       url('../fonts/open-sans-v16-latin-800.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+  src: local('FuturaPTExtraBold');
 }
 
 /* open-sans-800italic - latin */
 @font-face {
-  font-family: 'Open Sans';
+  font-family: 'Futura PT';
   font-style: italic;
   font-weight: 800;
-  src: local('Open Sans ExtraBold Italic'), local('OpenSans-ExtraBoldItalic'),
-       url('../fonts/open-sans-v16-latin-800italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
-       url('../fonts/open-sans-v16-latin-800italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+  src: local('FuturaPTExtraBoldOblique');
 }
 
 /*
@@ -147,7 +135,7 @@ input, select, textarea {
 	}
 
 	body {
-		background: #2e3842;
+		background: #142C43;
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -163,7 +151,7 @@ input, select, textarea {
 
 	body, input, select, textarea {
 		color: #fff;
-		font-family: "Open Sans", Helvetica, sans-serif;
+		font-family: "Futura PT", Helvetica, sans-serif;
 		font-size: 15pt;
 		font-weight: 400;
 		letter-spacing: 0.075em;
@@ -225,10 +213,10 @@ input, select, textarea {
 	h1, h2, h3, h4, h5, h6 {
 		color: #fff;
 		font-weight: 800;
-		letter-spacing: 0.225em;
+		letter-spacing: 0.150em;
 		line-height: 1em;
 		margin: 0 0 1em 0;
-		text-transform: uppercase;
+		/*text-transform: uppercase;*/
 	}
 
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
@@ -2457,13 +2445,13 @@ input, select, textarea {
 		font-size: 0.8em;
 		font-weight: 600;
 		height: 3.125em;
-		letter-spacing: 0.225em;
+		letter-spacing: 0.150em;
 		line-height: 3.125em;
 		max-width: 30em;
 		padding: 0 2.75em;
 		text-align: center;
 		text-decoration: none;
-		text-transform: uppercase;
+		/*text-transform: uppercase;*/
 		white-space: nowrap;
 		overflow: hidden;
 		text-overflow: ellipsis;
@@ -3421,10 +3409,10 @@ input, select, textarea {
 					color: inherit;
 					display: block;
 					font-size: 0.8em;
-					letter-spacing: 0.225em;
+					letter-spacing: 0.150em;
 					outline: 0;
 					text-decoration: none;
-					text-transform: uppercase;
+					/*text-transform: uppercase;*/
 				}
 
 					@media screen and (max-width: 736px) {
@@ -3480,7 +3468,7 @@ input, select, textarea {
 		-webkit-transition: background-color 0.2s ease;
 		-ms-transition: background-color 0.2s ease;
 		transition: background-color 0.2s ease;
-		background: #2e3842;
+		background: #142C43;
 		height: 3em;
 		left: 0;
 		line-height: 3em;
@@ -3542,9 +3530,9 @@ input, select, textarea {
 						color: #fff;
 						display: block;
 						font-size: 0.8em;
-						letter-spacing: 0.225em;
+						letter-spacing: 0.150em;
 						padding: 0 1.5em;
-						text-transform: uppercase;
+						/*text-transform: uppercase;*/
 					}
 
 						#header nav > ul > li > a.menuToggle {
@@ -3664,8 +3652,8 @@ input, select, textarea {
 			}
 
 		#banner p {
-			letter-spacing: 0.225em;
-			text-transform: uppercase;
+			letter-spacing: 0.150em;
+			/*text-transform: uppercase;*/
 		}
 
 			#banner p a {
@@ -3695,10 +3683,10 @@ input, select, textarea {
 			margin-left: -8.5em;
 			opacity: 1;
 			outline: 0;
-			padding-left: 0.225em;
+			padding-left: 0.150em;
 			position: absolute;
 			text-align: center;
-			text-transform: uppercase;
+			/*text-transform: uppercase;*/
 			width: 16em;
 			z-index: 1;
 		}
@@ -3863,8 +3851,8 @@ input, select, textarea {
 
 		#main > header p {
 			color: inherit;
-			letter-spacing: 0.225em;
-			text-transform: uppercase;
+			letter-spacing: 0.150em;
+			/*text-transform: uppercase;*/
 			top: 0;
 		}
 
@@ -3936,10 +3924,10 @@ input, select, textarea {
 		#footer .copyright {
 			color: rgba(255, 255, 255, 0.5);
 			font-size: 0.8em;
-			letter-spacing: 0.225em;
+			letter-spacing: 0.150em;
 			list-style: none;
 			padding: 0;
-			text-transform: uppercase;
+			/*text-transform: uppercase;*/
 		}
 
 			#footer .copyright li {

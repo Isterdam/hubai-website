@@ -1,13 +1,13 @@
 baseURL = "https://isterdam.github.io/"
 languageCode = "en-us"
-title = "Hub AI"
+title = 'Hub AI'
 defaultContentLanguage = "en"
 paginate = "7"
 theme = "spectral"
 enableEmoji=true
 
 [params]
-fancyTitle = '&nbsp&nbsp&nbsp Hub AI &nbsp&nbsp&nbsp<br /> &nbsp&nbsp&nbsp <img height="128" width="128" src="/white_logo.png"/> &nbsp&nbsp&nbsp'
+fancyTitle = '<img width="250px" src="/complete_white_logo.png"/>'
 copyright = "Hub AI"
 description = "Hub AI is a student-run organisation based at Lund University,<br/ > bringing students from all faculties together to educate ourselves<br /> on the current state of AI theory and issues today"
 startbuttonText = "Upcoming Events"
@@ -59,18 +59,18 @@ enable = true
 
 [[params.two.section]]
 img = "network.jpg"
-title = 'Tortor dolore feugiat<br />elementum magna'
-body = 'Build a network of like-minded individuals from all disciplines and ranks: students, academics and industry representatives.'
+title = 'Opportunities to Network'
+body = 'We offer an opportunity to build a network of like-minded individuals from all disciplines and ranks: students, academics and industry representatives.'
 
 [[params.two.section]]
 img = "educate.jpg"
-title = 'Magna primis lobortis<br />sed ullamcorper'
-body = 'Educate the members on current research and issues surrounding Artificial Intelligence and master basic coding skills together.'
+title = 'Educating on AI Topics'
+body = 'We aim to educate our members on current research and issues surrounding Artificial Intelligence and to master basic coding skills together.'
 
 [[params.two.section]]
 img = "share.jpg"
-title = 'Magna primis lobortis<br />sed ullamcorper'
-body = 'Share the members’ personal experience and expertise on AI.'
+title = 'Sharing is Caring'
+body = 'By sharing the members’ personal experiences and expertise on AI we all become a little smarter.'
 
 [params.three]
 enable = true
