@@ -7,7 +7,7 @@ theme = "spectral"
 enableEmoji=true
 
 [params]
-fancyTitle = '&nbsp&nbsp&nbsp<img width="250px" src="/complete_white_logo.png"/>&nbsp&nbsp&nbsp'
+fancyTitle = '&nbsp<img width="250px" src="/complete_white_logo.png"/>&nbsp'
 copyright = "Hub AI"
 description = "Bringing people from all disciplines together to talk about Artificial Intelligence"
 startbuttonText = "Upcoming Events"

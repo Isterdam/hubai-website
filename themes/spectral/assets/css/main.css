@@ -3618,7 +3618,7 @@ input, select, textarea {
 			display: inline-block;
 			font-size: 1.75em;
 			opacity: 1;
-			padding: 0.25em 0em;
+			padding: 0em 0em;
 			position: relative;
 			z-index: 1;
 		}
