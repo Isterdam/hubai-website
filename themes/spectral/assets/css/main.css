@@ -213,7 +213,6 @@ input, select, textarea {
 	h1, h2, h3, h4, h5, h6 {
 		color: #fff;
 		font-weight: 800;
-		letter-spacing: 0.150em;
 		line-height: 1em;
 		margin: 0 0 1em 0;
 		/*text-transform: uppercase;*/
@@ -2794,7 +2793,7 @@ input, select, textarea {
 				.spotlight .content {
 					padding: 4em 3em 2em 3em ;
 					max-width: none;
-					text-align: center;
+					/* text-align: center; */
 					width: 100%;
 				}
 
