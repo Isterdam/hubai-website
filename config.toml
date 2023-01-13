@@ -80,6 +80,7 @@ Aliquam ut ex ut augue consectetur interdum. Donec amet imperdiet eleifend
 fringilla tincidunt. Nullam dui leo Aenean mi ligula, rhoncus ullamcorper.
 '''
 
+# NOTE! File size really matters for the website's responsiveness. Decrease the size and compress images.
 [[params.three.feature]]
 headshot = '<img src="team/president.jpg"/ class="headshot">'
 title = "President"
