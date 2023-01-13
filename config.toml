@@ -131,20 +131,20 @@ href = "/blogposts/"
 text = "Blogposts"
 special = false
 
-[params.contact]
-enable = true
-title = "Contact"
-body = "Leave us a message."
+#[params.contact]
+#enable = true
+#title = "Contact"
+#body = "Leave us a message."
 #phone = "+49 (0) 030 000 000"
-address = "Sandgatan 2, 223 50<br />Lund, Skåne 0000<br />Sweden"
-email = "hello@hubai.se"
-subject = "New message from website"
-plain = false
+#address = "Sandgatan 2, 223 50<br />Lund, Skåne 0000<br />Sweden"
+#subject = "New message from website"
+#plain = false
 
 [params.social]
 youtube = "UCE6rM1IUUyrc0G2MDnUm-Yg"
 facebook = "HubAILund"
 instagram = "hubailund"
 linkedin = "company/hubai/"
+email = "hello@hubai.se"
 dribble = ""
 footerImage = '<img height="128" width="128" src="/af.png"/>'
