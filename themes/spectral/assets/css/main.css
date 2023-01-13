@@ -2725,15 +2725,15 @@ input, select, textarea {
 		}
 
 		.spotlight:nth-child(1) {
-			background-color: rgba(0, 0, 0, 0.075);
+			background-color: #142C43;
 		}
 
 		.spotlight:nth-child(2) {
-			background-color: rgba(0, 0, 0, 0.15);
+			background-color: #0F2132;
 		}
 
 		.spotlight:nth-child(3) {
-			background-color: rgba(0, 0, 0, 0.225);
+			background-color: #0a1621;
 		}
 
 		.spotlight:nth-child(4) {
@@ -2839,7 +2839,7 @@ input, select, textarea {
 		}
 
 		.wrapper.style1 {
-			background-color: #21b2a6;
+			background-color: #e47663;
 			color: #c8ece9;
 		}
 
@@ -3002,7 +3002,7 @@ input, select, textarea {
 		}
 
 		.wrapper.style3 {
-			background-color: #505393;
+			background-color: #142C43;
 			color: #d3d4e4;
 		}
 
@@ -3056,7 +3056,7 @@ input, select, textarea {
 
 				.wrapper.style3 select option {
 					color: #ffffff;
-					background: #505393;
+					background: #e47663;
 				}
 
 			.wrapper.style3 input[type="checkbox"] + label,
@@ -3072,7 +3072,7 @@ input, select, textarea {
 			.wrapper.style3 input[type="checkbox"]:checked + label:before,
 			.wrapper.style3 input[type="radio"]:checked + label:before {
 				background: #ffffff;
-				color: #505393;
+				color: #e47663;
 			}
 
 			.wrapper.style3 ::-webkit-input-placeholder {
@@ -3373,7 +3373,7 @@ input, select, textarea {
 		-ms-transition: -ms-transform 0.5s ease;
 		transition: transform 0.5s ease;
 		-webkit-overflow-scrolling: touch;
-		background: #21b2a6;
+		background: #e47663;
 		color: #ffffff;
 		height: 100%;
 		max-width: 80%;
@@ -3832,6 +3832,7 @@ input, select, textarea {
 
 	#main > header {
 		padding: 12em 0 10em 0 ;
+		background-color: #142C43;
 		background-image: -moz-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/banner.jpg");
 		background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/banner.jpg");
 		background-image: -ms-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/banner.jpg");

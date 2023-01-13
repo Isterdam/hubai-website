@@ -33,24 +33,23 @@ title = "Blogposts"
 
 [params.one]
 enable = true
-title = 'Arcu aliquet vel lobortis ata nisl<br />eget augue amet aliquet nisl cep donec'
+title = 'Our Goals'
 body = '''
-Aliquam ut ex ut augue consectetur interdum. Donec amet imperdiet eleifend  
-fringilla tincidunt. Nullam dui leo Aenean mi ligula, rhoncus ullamcorper.
+As part of Akademiska Föreningen (AF), we aim to provide Lund University students interested in AI with tools to learn, possibilities to network and a community of like-minded individuals
 '''
 
 [[params.one.icon]]
-icon = "fa-diamond"
+icon = "fa-book"
 style = "1"
 label = "Lorem"
 
 [[params.one.icon]]
-icon = "fa-heart-o"
+icon = "fa-handshake-o"
 style = "2"
 label = "Ipsum"
 
 [[params.one.icon]]
-icon = "fa-code"
+icon = "fa-users"
 style = "3"
 label = "Dolor"
 
