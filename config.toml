@@ -82,39 +82,39 @@ fringilla tincidunt. Nullam dui leo Aenean mi ligula, rhoncus ullamcorper.
 
 # NOTE! File size really matters for the website's responsiveness. Decrease the size and compress images.
 [[params.three.feature]]
-headshot = '<img src="team/president.jpg"/ class="headshot">'
+headshot = '<img src="team/emil.jpg"/ class="headshot">'
 title = "President"
 name = "Emil Damirov"
 body = "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat."
 
 [[params.three.feature]]
-headshot = '<img src="team/vice_president.jpg"/ class="headshot">'
+headshot = '<img src="team/lola.jpg"/ class="headshot">'
 name = "Charlotte Schöllkopf"
 title = "Vice President"
 body = "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat."
 
 [[params.three.feature]]
-headshot = '<img src="team/head_of_education.jpg"/ class="headshot">'
+headshot = '<img src="team/diego.jpg"/ class="headshot">'
 name = "Diego Figueroa"
 title = "Head of Education"
 body = "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat."
 
 [[params.three.feature]]
-headshot = '<img src="team/head_of_events.jpg"/ class="headshot">'
+headshot = '<img src="team/gustaf.jpg"/ class="headshot">'
 name = "Gustaf Morenius"
 title = "Head of Events"
 body = "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat."
 
 [[params.three.feature]]
-headshot = '<img src="team/head_of_events.jpg"/ class="headshot">'
+headshot = '<img src="team/gustaf.jpg"/ class="headshot">'
 name = "Adrian Murphy"
-title = "Head of External Relations"
+title = "Head of External Partnerships"
 body = "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat."
 
 [[params.three.feature]]
-headshot = '<img src="team/head_of_public_relations.jpg"/ class="headshot">'
+headshot = '<img src="team/michelle.jpg"/ class="headshot">'
 name = "Michelle Konopka"
-title = "Head of Public Relations"
+title = "Head of Marketing & Communications"
 body = "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat."
 
 [params.cta]
