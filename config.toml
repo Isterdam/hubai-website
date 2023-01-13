@@ -35,7 +35,7 @@ title = "Blogposts"
 enable = true
 title = 'Our Goals'
 body = '''
-As part of Akademiska Föreningen (AF), we aim to provide Lund University students interested in AI with tools to learn, possibilities to network and a community of like-minded individuals
+As part of Akademiska Föreningen (AF), we aim to provide students at Lund University who are interested in AI with tools to learn, possibilities to network and a community of like-minded individuals
 '''
 
 [[params.one.icon]]
