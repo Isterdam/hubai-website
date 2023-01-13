@@ -4015,3 +4015,13 @@ input, select, textarea {
 	body.is-mobile.landing #footer {
 		background-color: #142C43;
 	}
+
+img.headshot {
+	object-fit: cover;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 50%;
+	height: 175px;
+	width: 175px;
+}

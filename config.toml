@@ -74,40 +74,46 @@ body = 'By sharing our personal experiences and expertise on AI as members of Hu
 
 [params.three]
 enable = true
-title = 'Accumsan mus tortor nunc aliquet'
+title = 'The Committee'
 body = '''
 Aliquam ut ex ut augue consectetur interdum. Donec amet imperdiet eleifend  
 fringilla tincidunt. Nullam dui leo Aenean mi ligula, rhoncus ullamcorper.
 '''
 
 [[params.three.feature]]
-icon = "fa-paper-plane-o"
-title = "Arcu accumsan"
+headshot = '<img src="team/president.jpg"/ class="headshot">'
+title = "President"
+name = "Emil Damirov"
 body = "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat."
 
 [[params.three.feature]]
-icon = "fa-laptop"
-title = "Ac Augue Eget"
+headshot = '<img src="team/vice_president.jpg"/ class="headshot">'
+name = "Charlotte Schöllkopf"
+title = "Vice President"
 body = "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat."
 
 [[params.three.feature]]
-icon = "fa-code"
-title = "Foo bar"
+headshot = '<img src="team/head_of_education.jpg"/ class="headshot">'
+name = "Diego Figueroa"
+title = "Head of Education"
 body = "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat."
 
 [[params.three.feature]]
-icon = "fa-headphones"
-title = "Baz kram"
+headshot = '<img src="team/head_of_events.jpg"/ class="headshot">'
+name = "Gustaf Morenius"
+title = "Head of Events"
 body = "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat."
 
 [[params.three.feature]]
-icon = "fa-heart-o"
-title = "Some latin text"
+headshot = '<img src="team/head_of_events.jpg"/ class="headshot">'
+name = "Adrian Murphy"
+title = "Head of External Relations"
 body = "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat."
 
 [[params.three.feature]]
-icon = "fa-flag-o"
-title = "Nothing important"
+headshot = '<img src="team/head_of_public_relations.jpg"/ class="headshot">'
+name = "Michelle Konopka"
+title = "Head of Public Relations"
 body = "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat."
 
 [params.cta]

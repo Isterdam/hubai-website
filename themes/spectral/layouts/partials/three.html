@@ -11,8 +11,12 @@
 		<ul class="features">
       {{ range .feature }}
       <li class="icon {{ .icon }}">
-        <h3>{{ .title | safeHTML }}</h3>
-        <p>{{ .body | safeHTML }}</p>
+        <h2>{{ .headshot | safeHTML }}</h2>
+        <h2 style="text-align: center;">
+         {{ .title | safeHTML }}<br />
+         {{ .name | safeHTML }}
+       </h2>
+        <p style="text-align: center;">{{ .body | safeHTML }}</p>
 			</li>
       {{ end }}
 		</ul>
