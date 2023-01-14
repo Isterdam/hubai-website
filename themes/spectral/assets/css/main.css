@@ -6,7 +6,7 @@
   font-family: 'Josefin Sans';
   font-style: normal;
   font-weight: 300;
-  src: local('JosefinSans-Regular');
+  src: local('fonts/JosefinSans-ExtraLight');
 }
 
 /* open-sans-italic - latin */
@@ -14,7 +14,7 @@
   font-family: 'Josefin Sans';
   font-style: italic;
   font-weight: 300;
-  src: local('JosefinSans-Italic');
+  src: local('fonts/JosefinSans-ExtraLightItalic');
 }
 
 /* open-sans-600 - latin */
@@ -22,7 +22,7 @@
   font-family: 'Josefin Sans';
   font-style: normal;
   font-weight: 600;
-  src: local('JosefinSans-SemiBold');
+  src: local('fonts/JosefinSans-Light');
 }
 
 /* open-sans-600italic - latin */
@@ -30,7 +30,7 @@
   font-family: 'Josefin Sans';
   font-style: italic;
   font-weight: 600;
-  src: local('JosefinSans-SemiBoldItalic');
+  src: local('fonts/JosefinSans-LightItalic');
 }
 
 /* open-sans-800 - latin */
@@ -38,7 +38,7 @@
   font-family: 'Josefin Sans';
   font-style: normal;
   font-weight: 800;
-  src: local('JosefinSans-Bold');
+  src: local('fonts/JosefinSans-Regular');
 }
 
 /* open-sans-800italic - latin */
@@ -46,7 +46,7 @@
   font-family: 'Josefin Sans';
   font-style: italic;
   font-weight: 800;
-  src: local('JosefinSans-BoldItalic');
+  src: local('fonts/JosefinSans-RegularItalic');
 }
 
 /*
@@ -212,7 +212,7 @@ input, select, textarea {
 
 	h1, h2, h3, h4, h5, h6 {
 		color: #fff;
-		font-weight: 800;
+		/*font-weight: 800;*/
 		line-height: 1em;
 		margin: 0 0 1em 0;
 		/*text-transform: uppercase;*/
