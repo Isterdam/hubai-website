@@ -1,6 +1,6 @@
 +++
 title = "Events"
-image = "/team.jpg"
+image = "/cover.jpg"
 +++
 
 ## Panel Discussion: AI, Security & Surveillance

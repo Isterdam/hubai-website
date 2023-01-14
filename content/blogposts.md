@@ -1,6 +1,6 @@
 +++
 title = "Blogposts"
-image = "/team.jpg"
+image = "/cover.jpg"
 +++
 
 ## Welcome!
